@@ -1,0 +1,18 @@
+<lasor>
+    <camera_width>640</camera_width>
+    <camera_height>480</camera_height>
+    <display_width>1920</display_width>
+    <display_height>1080</display_height>
+    <display_x>3840</display_x>
+    <display_y>0</display_y>
+    <draw_raw>0</draw_raw>
+    <threshold>204.137008667</threshold>
+    <point_x0>156.000000000</point_x0>
+    <point_y0>109.000000000</point_y0>
+    <point_x1>526.000000000</point_x1>
+    <point_y1>86.000000000</point_y1>
+    <point_x2>543.000000000</point_x2>
+    <point_y2>298.000000000</point_y2>
+    <point_x3>156.000000000</point_x3>
+    <point_y3>315.000000000</point_y3>
+</lasor>
